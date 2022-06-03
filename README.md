@@ -1,6 +1,6 @@
 <h1 align="left">Olááá 👋 eu sou o Iuri!</h1>
 
-- 📘 Estudante de Análise e Desenvolvimento de Sistemas no IFSP
+- 📘 Graduando em Análise e Desenvolvimento de Sistemas no IFSP
 
 - 👨‍💻 Front-end
 
