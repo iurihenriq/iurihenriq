@@ -2,7 +2,7 @@
 
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas no IFSP
 
-- 👨‍💻 Front-End
+- 👨‍💻 Front-end
 
 - ⚡ Encontro-me em uma constante busca de desenvolvimento e aprendizado
 
