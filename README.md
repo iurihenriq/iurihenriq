@@ -1,4 +1,4 @@
-<h1 align="left">Olááá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Iuri!</h1>
+<h1 align="left">Olááá 👋 eu sou o Iuri!</h1>
 
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas no IFSP
 
