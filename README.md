@@ -3,7 +3,7 @@
 - 📘 Graduando em Análise e Desenvolvimento de Sistemas no IFSP
 
 - 👨‍💻 Desenvolvedor Front-end
-- 📧 E-Mail: iurinhg2@gmail.com
+- 📧 E-mail: iurinhg2@gmail.com
 - ⚡ Me encontro em uma constante busca de desenvolvimento e aprendizado!
 
 
