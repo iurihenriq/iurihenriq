@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:A45CFF&height=210&section=header&text=Iuri%20Henrique&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:A45CFF&height=210&section=header&text=Iuri%20Henrique&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front-end&descAlignY=50">
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iurihenriq&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=EDEDED&bg_color=0d1117"/>
