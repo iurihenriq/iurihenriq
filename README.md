@@ -7,15 +7,8 @@
 
 <hr>
   
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Iuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Iuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iuri-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center" alt="Iuri-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Iuri-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Iuri-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="Iuri-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,html,css,ts,spring,java,mysql,figma,git"></img>
 </div>
   <img align="right" alt="Gif" height="170" width="145" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" >
 
@@ -24,7 +17,7 @@
  #### Hello World!!
 > Eu sou o Iuri, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas, no IFSP. Tenho como objetivo me profissionalizar na área de desenvolvimento Front-End.
 
- 🌱 Atualmente estou estudando JavaScript + React JS.
+ 🌱 Atualmente estou estudando TypeScript + Angular.
  
  <hr>
  
