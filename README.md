@@ -8,7 +8,7 @@
 <hr>
   
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,ts,spring,java,mysql,figma,git"></img>
+  <img src="https://skillicons.dev/icons?i=angular,spring,java,mysql,git,ts,html,css"></img>
 </div>
   <img align="right" alt="Gif" height="170" width="145" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" >
 
@@ -17,13 +17,13 @@
  #### Hello World!!
 > Eu sou o Iuri, tenho 20 anos e atualmente trabalho como desenvolvedor Full Stack.
 
- 🌱 Utilizo principalmente Spring Boot + Angular.
+ 💻 Utilizo principalmente Java com Spring Boot + Angular.<br>
+ 🌱 Atualmente, estou aprofundando meus conhecimentos em Docker, Cloud & Microserviços.
  
  <hr>
  
 <div> 
-   <a href="https://www.linkedin.com/in/iuri-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/iuri-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/iurihenriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:iurinhg2@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
